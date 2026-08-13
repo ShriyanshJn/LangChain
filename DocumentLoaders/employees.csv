@@ -1,0 +1,31 @@
+EmployeeID,Name,Department,JobTitle,Email,AnnualSalary,JoiningDate,City,Status
+1001,Aarav Sharma,Engineering,Software Engineer,aarav.sharma@example.com,75000,2023-04-10,Delhi,Active
+1002,Ananya Patel,Engineering,Senior Software Engineer,ananya.patel@example.com,92000,2021-08-16,Mumbai,Active
+1003,Rohan Mehta,Engineering,QA Engineer,rohan.mehta@example.com,68000,2022-01-24,Pune,Active
+1004,Isha Verma,Human Resources,HR Manager,isha.verma@example.com,85000,2020-06-15,Bengaluru,Active
+1005,Kabir Singh,Sales,Sales Executive,kabir.singh@example.com,62000,2024-02-05,Gurugram,Active
+1006,Meera Nair,Finance,Financial Analyst,meera.nair@example.com,78000,2022-09-12,Chennai,Active
+1007,Arjun Gupta,Marketing,Marketing Specialist,arjun.gupta@example.com,70000,2023-11-20,Noida,Active
+1008,Priya Kapoor,Engineering,Tech Lead,priya.kapoor@example.com,110000,2019-03-18,Hyderabad,Active
+1009,Vikram Joshi,IT,System Administrator,vikram.joshi@example.com,72000,2021-12-06,Ahmedabad,Active
+1010,Sneha Iyer,Operations,Operations Manager,sneha.iyer@example.com,88000,2020-10-26,Bengaluru,Active
+1011,Aditya Rao,Engineering,Backend Developer,aditya.rao@example.com,82000,2022-05-09,Hyderabad,Active
+1012,Neha Shah,Finance,Accountant,neha.shah@example.com,65000,2023-01-30,Mumbai,Active
+1013,Karan Malhotra,Sales,Account Manager,karan.malhotra@example.com,79000,2021-07-19,Delhi,Active
+1014,Riya Das,Customer Support,Support Specialist,riya.das@example.com,54000,2024-06-03,Kolkata,Active
+1015,Manav Bansal,Engineering,Frontend Developer,manav.bansal@example.com,80000,2023-07-17,Pune,Active
+1016,Tanya Sethi,Product,Product Manager,tanya.sethi@example.com,105000,2020-02-10,Gurugram,Active
+1017,Yash Kulkarni,IT,DevOps Engineer,yash.kulkarni@example.com,90000,2022-11-14,Bengaluru,Active
+1018,Nandini Roy,Legal,Legal Associate,nandini.roy@example.com,76000,2023-03-27,Kolkata,Active
+1019,Rahul Chawla,Engineering,Data Engineer,rahul.chawla@example.com,87000,2021-05-31,Noida,Active
+1020,Simran Kaur,Human Resources,Recruiter,simran.kaur@example.com,61000,2024-01-08,Chandigarh,Active
+1021,Dev Tiwari,Marketing,Content Strategist,dev.tiwari@example.com,67000,2022-08-22,Jaipur,Active
+1022,Pooja Menon,Finance,Finance Manager,pooja.menon@example.com,98000,2019-09-02,Chennai,Active
+1023,Sahil Arora,Sales,Business Development Executive,sahil.arora@example.com,64000,2023-10-09,Gurugram,Active
+1024,Aditi Mishra,Engineering,Software Engineer,aditi.mishra@example.com,77000,2024-03-11,Lucknow,Active
+1025,Varun Bhat,Operations,Business Operations Analyst,varun.bhat@example.com,73000,2022-04-18,Bengaluru,Active
+1026,Kavya Reddy,Product,Product Designer,kavya.reddy@example.com,83000,2021-10-04,Hyderabad,Active
+1027,Nikhil Jain,IT,Network Engineer,nikhil.jain@example.com,71000,2023-05-15,Indore,Active
+1028,Divya Thomas,Customer Support,Customer Success Manager,divya.thomas@example.com,75000,2020-12-14,Kochi,Active
+1029,Harsh Vora,Engineering,Engineering Manager,harsh.vora@example.com,120000,2018-07-23,Mumbai,Active
+1030,Mahi Agarwal,Administration,Office Administrator,mahi.agarwal@example.com,58000,2024-07-01,Delhi,Active
